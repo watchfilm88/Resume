@@ -1,0 +1,224 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.requisites-cntr{
+    width: 370px;
+    height: 1319px;
+    background: #1E2939;
+    padding-top: 40px;
+}
+
+.general-cntr{
+    display: flex;
+    width: 1200px;
+    background-color: #f5f7fa;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.h-cntcts{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding-top: 51px;
+}
+
+.side-bar{
+    color: #FFFFFF;
+    padding: 0;
+}
+
+.side-bar-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding: 47px 0px 8px 40px;
+}
+
+img{
+   width: 370px
+}
+
+.tel-email{
+    padding-left: 40px;
+}
+
+.contact-type{
+color: #FFFFFF;
+}
+
+.contact-link{
+    color: #565E6A;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.skils-list{
+    color: #FFFFFF;
+    margin-left: 17px;
+}
+
+.tech-skils-item{
+    color: #FB6D3A;
+}
+
+.tech-skils-text{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.questionnaire-cntr{
+    padding-top: 102px;
+    padding-left: 88px;
+}
+
+.about-user{
+    margin-bottom: 40px;
+}
+
+.about-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.about-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.about-descr{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+.title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 44px;
+}
+
+.projects-list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.project-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959; 
+}
+
+.project-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+
+.project-brascet{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.Projects{
+    margin-bottom: 50px;
+}
+
+.work-position{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.organization{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+
+.line{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.list{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 509px;
+    padding: 0;
+    margin-left: 15px;
+}
+
+.plase-edu{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.edu-management{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
